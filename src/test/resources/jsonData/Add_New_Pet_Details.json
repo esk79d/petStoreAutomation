@@ -1,0 +1,18 @@
+{
+  "id": 7001,
+  "name": "Test Dog",
+  "category": {
+    "id": 1,
+    "name": "Dogs"
+  },
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "tipo"
+    }
+  ],
+  "status": "available"
+}

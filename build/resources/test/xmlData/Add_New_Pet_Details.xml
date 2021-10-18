@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pet>
+	<id>8001</id>
+	<name>Xml Dog</name>
+	<category>
+		<id>1</id>
+		<name>Dogs</name>
+	</category>
+	<photoUrls>
+		<photoUrl>string</photoUrl>
+	</photoUrls>
+	<tags>
+		<tag>
+			<id>0</id>
+			<name>string</name>
+		</tag>
+	</tags>
+	<status>available</status>
+</pet>
